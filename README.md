@@ -1,7 +1,6 @@
 # Versity
 
 ## Module 
-***
 * Frontend
 * Backend 
 
